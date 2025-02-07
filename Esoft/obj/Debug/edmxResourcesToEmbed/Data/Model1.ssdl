@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Хранилище EsoftModel" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Apartment">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="HouseID" Type="int" Nullable="false" />
+    <Property Name="Number" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="Area" Type="float" Nullable="false" />
+    <Property Name="CountOfRooms" Type="int" Nullable="false" />
+    <Property Name="Section" Type="int" Nullable="false" />
+    <Property Name="Floor" Type="int" Nullable="false" />
+    <Property Name="IsSold" Type="bit" Nullable="false" />
+    <Property Name="IsDeleted" Type="bit" Nullable="false" />
+  </EntityType>
+  <EntityType Name="CostDetails">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ApartmentID" Type="int" Nullable="false" />
+    <Property Name="BuildingCost" Type="int" Nullable="false" />
+    <Property Name="ValueAdded" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="House">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ResidentialComplexID" Type="int" Nullable="false" />
+    <Property Name="StreetID" Type="int" Nullable="false" />
+    <Property Name="Number" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="IsDeleted" Type="bit" Nullable="false" />
+  </EntityType>
+  <EntityType Name="ResidentialComplex">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="varchar" MaxLength="255" Nullable="false" />
+    <Property Name="City" Type="varchar" MaxLength="255" Nullable="false" />
+    <Property Name="Status" Type="varchar" MaxLength="15" Nullable="false" />
+    <Property Name="IsDeleted" Type="bit" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Street">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="varchar" MaxLength="255" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_Apartment_House">
+    <End Role="House" Type="Self.House" Multiplicity="1" />
+    <End Role="Apartment" Type="Self.Apartment" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="House">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Apartment">
+        <PropertyRef Name="HouseID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CostDetails_Apartment">
+    <End Role="Apartment" Type="Self.Apartment" Multiplicity="1" />
+    <End Role="CostDetails" Type="Self.CostDetails" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Apartment">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="CostDetails">
+        <PropertyRef Name="ApartmentID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_House_ResidentialComplex">
+    <End Role="ResidentialComplex" Type="Self.ResidentialComplex" Multiplicity="1" />
+    <End Role="House" Type="Self.House" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ResidentialComplex">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="House">
+        <PropertyRef Name="ResidentialComplexID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_House_Street">
+    <End Role="Street" Type="Self.Street" Multiplicity="1" />
+    <End Role="House" Type="Self.House" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Street">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="House">
+        <PropertyRef Name="StreetID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="Хранилище EsoftModelContainer">
+    <EntitySet Name="Apartment" EntityType="Self.Apartment" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="CostDetails" EntityType="Self.CostDetails" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="House" EntityType="Self.House" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="ResidentialComplex" EntityType="Self.ResidentialComplex" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Street" EntityType="Self.Street" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_Apartment_House" Association="Self.FK_Apartment_House">
+      <End Role="House" EntitySet="House" />
+      <End Role="Apartment" EntitySet="Apartment" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CostDetails_Apartment" Association="Self.FK_CostDetails_Apartment">
+      <End Role="Apartment" EntitySet="Apartment" />
+      <End Role="CostDetails" EntitySet="CostDetails" />
+    </AssociationSet>
+    <AssociationSet Name="FK_House_ResidentialComplex" Association="Self.FK_House_ResidentialComplex">
+      <End Role="ResidentialComplex" EntitySet="ResidentialComplex" />
+      <End Role="House" EntitySet="House" />
+    </AssociationSet>
+    <AssociationSet Name="FK_House_Street" Association="Self.FK_House_Street">
+      <End Role="Street" EntitySet="Street" />
+      <End Role="House" EntitySet="House" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

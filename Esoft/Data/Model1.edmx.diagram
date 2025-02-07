@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="a2f29dba06da443ca4ebdae3bf29360f" Name="Diagram1">
+        <EntityTypeShape EntityType="EsoftModel.Apartment" Width="1.5" PointX="5.25" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="EsoftModel.CostDetails" Width="1.5" PointX="7.5" PointY="1.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="EsoftModel.House" Width="1.5" PointX="3" PointY="1.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="EsoftModel.ResidentialComplex" Width="1.875" PointX="0.75" PointY="1.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="EsoftModel.Street" Width="1.5" PointX="0.75" PointY="5.75" IsExpanded="true" />
+        <AssociationConnector Association="EsoftModel.FK_Apartment_House" ManuallyRouted="false" />
+        <AssociationConnector Association="EsoftModel.FK_CostDetails_Apartment" ManuallyRouted="false" />
+        <AssociationConnector Association="EsoftModel.FK_House_ResidentialComplex" ManuallyRouted="false" />
+        <AssociationConnector Association="EsoftModel.FK_House_Street" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

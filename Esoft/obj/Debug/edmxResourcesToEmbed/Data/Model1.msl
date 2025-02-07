@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Хранилище EsoftModelContainer" CdmEntityContainer="EsoftEntities">
+    <EntitySetMapping Name="Apartment">
+      <EntityTypeMapping TypeName="EsoftModel.Apartment">
+        <MappingFragment StoreEntitySet="Apartment">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="HouseID" ColumnName="HouseID" />
+          <ScalarProperty Name="Number" ColumnName="Number" />
+          <ScalarProperty Name="Area" ColumnName="Area" />
+          <ScalarProperty Name="CountOfRooms" ColumnName="CountOfRooms" />
+          <ScalarProperty Name="Section" ColumnName="Section" />
+          <ScalarProperty Name="Floor" ColumnName="Floor" />
+          <ScalarProperty Name="IsSold" ColumnName="IsSold" />
+          <ScalarProperty Name="IsDeleted" ColumnName="IsDeleted" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CostDetails">
+      <EntityTypeMapping TypeName="EsoftModel.CostDetails">
+        <MappingFragment StoreEntitySet="CostDetails">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="ApartmentID" ColumnName="ApartmentID" />
+          <ScalarProperty Name="BuildingCost" ColumnName="BuildingCost" />
+          <ScalarProperty Name="ValueAdded" ColumnName="ValueAdded" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="House">
+      <EntityTypeMapping TypeName="EsoftModel.House">
+        <MappingFragment StoreEntitySet="House">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="ResidentialComplexID" ColumnName="ResidentialComplexID" />
+          <ScalarProperty Name="StreetID" ColumnName="StreetID" />
+          <ScalarProperty Name="Number" ColumnName="Number" />
+          <ScalarProperty Name="IsDeleted" ColumnName="IsDeleted" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ResidentialComplex">
+      <EntityTypeMapping TypeName="EsoftModel.ResidentialComplex">
+        <MappingFragment StoreEntitySet="ResidentialComplex">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="City" ColumnName="City" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+          <ScalarProperty Name="IsDeleted" ColumnName="IsDeleted" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Street">
+      <EntityTypeMapping TypeName="EsoftModel.Street">
+        <MappingFragment StoreEntitySet="Street">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

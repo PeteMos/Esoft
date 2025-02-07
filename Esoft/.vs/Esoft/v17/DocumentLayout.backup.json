@@ -1,0 +1,362 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Esoft\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12AC2F26-E4E6-466D-8DD6-71EDED0EB21C}|Esoft.csproj|C:\\Users\\user\\Desktop\\Esoft\\pages\\listviewapartmentpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12AC2F26-E4E6-466D-8DD6-71EDED0EB21C}|Esoft.csproj|solutionrelative:pages\\listviewapartmentpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12AC2F26-E4E6-466D-8DD6-71EDED0EB21C}|Esoft.csproj|C:\\Users\\user\\Desktop\\Esoft\\pages\\listviewapartmentpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{12AC2F26-E4E6-466D-8DD6-71EDED0EB21C}|Esoft.csproj|solutionrelative:pages\\listviewapartmentpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12AC2F26-E4E6-466D-8DD6-71EDED0EB21C}|Esoft.csproj|C:\\Users\\user\\Desktop\\Esoft\\data\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{12AC2F26-E4E6-466D-8DD6-71EDED0EB21C}|Esoft.csproj|solutionrelative:data\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12AC2F26-E4E6-466D-8DD6-71EDED0EB21C}|Esoft.csproj|c:\\users\\user\\desktop\\esoft\\pages\\listviewhousepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12AC2F26-E4E6-466D-8DD6-71EDED0EB21C}|Esoft.csproj|solutionrelative:pages\\listviewhousepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12AC2F26-E4E6-466D-8DD6-71EDED0EB21C}|Esoft.csproj|C:\\Users\\user\\Desktop\\Esoft\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12AC2F26-E4E6-466D-8DD6-71EDED0EB21C}|Esoft.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12AC2F26-E4E6-466D-8DD6-71EDED0EB21C}|Esoft.csproj|C:\\Users\\user\\Desktop\\Esoft\\pages\\listviewhousepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{12AC2F26-E4E6-466D-8DD6-71EDED0EB21C}|Esoft.csproj|solutionrelative:pages\\listviewhousepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12AC2F26-E4E6-466D-8DD6-71EDED0EB21C}|Esoft.csproj|C:\\Users\\user\\Desktop\\Esoft\\data\\house.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12AC2F26-E4E6-466D-8DD6-71EDED0EB21C}|Esoft.csproj|solutionrelative:data\\house.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12AC2F26-E4E6-466D-8DD6-71EDED0EB21C}|Esoft.csproj|C:\\Users\\user\\Desktop\\Esoft\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{12AC2F26-E4E6-466D-8DD6-71EDED0EB21C}|Esoft.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12AC2F26-E4E6-466D-8DD6-71EDED0EB21C}|Esoft.csproj|C:\\Users\\user\\Desktop\\Esoft\\pages\\reportpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{12AC2F26-E4E6-466D-8DD6-71EDED0EB21C}|Esoft.csproj|solutionrelative:pages\\reportpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12AC2F26-E4E6-466D-8DD6-71EDED0EB21C}|Esoft.csproj|C:\\Users\\user\\Desktop\\Esoft\\pages\\addapartmentpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{12AC2F26-E4E6-466D-8DD6-71EDED0EB21C}|Esoft.csproj|solutionrelative:pages\\addapartmentpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12AC2F26-E4E6-466D-8DD6-71EDED0EB21C}|Esoft.csproj|C:\\Users\\user\\Desktop\\Esoft\\pages\\editapartmentpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{12AC2F26-E4E6-466D-8DD6-71EDED0EB21C}|Esoft.csproj|solutionrelative:pages\\editapartmentpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12AC2F26-E4E6-466D-8DD6-71EDED0EB21C}|Esoft.csproj|C:\\Users\\user\\Desktop\\Esoft\\pages\\addapartmentpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12AC2F26-E4E6-466D-8DD6-71EDED0EB21C}|Esoft.csproj|solutionrelative:pages\\addapartmentpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12AC2F26-E4E6-466D-8DD6-71EDED0EB21C}|Esoft.csproj|C:\\Users\\user\\Desktop\\Esoft\\data\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12AC2F26-E4E6-466D-8DD6-71EDED0EB21C}|Esoft.csproj|solutionrelative:data\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12AC2F26-E4E6-466D-8DD6-71EDED0EB21C}|Esoft.csproj|C:\\Users\\user\\Desktop\\Esoft\\pages\\editapartmentpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12AC2F26-E4E6-466D-8DD6-71EDED0EB21C}|Esoft.csproj|solutionrelative:pages\\editapartmentpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12AC2F26-E4E6-466D-8DD6-71EDED0EB21C}|Esoft.csproj|C:\\Users\\user\\Desktop\\Esoft\\pages\\reportpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12AC2F26-E4E6-466D-8DD6-71EDED0EB21C}|Esoft.csproj|solutionrelative:pages\\reportpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12AC2F26-E4E6-466D-8DD6-71EDED0EB21C}|Esoft.csproj|C:\\Users\\user\\Desktop\\Esoft\\data\\residentialcomplex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12AC2F26-E4E6-466D-8DD6-71EDED0EB21C}|Esoft.csproj|solutionrelative:data\\residentialcomplex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12AC2F26-E4E6-466D-8DD6-71EDED0EB21C}|Esoft.csproj|C:\\Users\\user\\Desktop\\Esoft\\data\\model1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12AC2F26-E4E6-466D-8DD6-71EDED0EB21C}|Esoft.csproj|solutionrelative:data\\model1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12AC2F26-E4E6-466D-8DD6-71EDED0EB21C}|Esoft.csproj|C:\\Users\\user\\Desktop\\Esoft\\data\\apartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12AC2F26-E4E6-466D-8DD6-71EDED0EB21C}|Esoft.csproj|solutionrelative:data\\apartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12AC2F26-E4E6-466D-8DD6-71EDED0EB21C}|Esoft.csproj|C:\\Users\\user\\Desktop\\Esoft\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{12AC2F26-E4E6-466D-8DD6-71EDED0EB21C}|Esoft.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12AC2F26-E4E6-466D-8DD6-71EDED0EB21C}|Esoft.csproj|C:\\Users\\user\\Desktop\\Esoft\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{12AC2F26-E4E6-466D-8DD6-71EDED0EB21C}|Esoft.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12AC2F26-E4E6-466D-8DD6-71EDED0EB21C}|Esoft.csproj|C:\\Users\\user\\Desktop\\Esoft\\classes\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12AC2F26-E4E6-466D-8DD6-71EDED0EB21C}|Esoft.csproj|solutionrelative:classes\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ListViewApartmentPage.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Esoft\\Pages\\ListViewApartmentPage.xaml",
+              "RelativeDocumentMoniker": "Pages\\ListViewApartmentPage.xaml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Esoft\\Pages\\ListViewApartmentPage.xaml*",
+              "RelativeToolTip": "Pages\\ListViewApartmentPage.xaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-18T16:00:55.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "House.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Esoft\\Data\\House.cs",
+              "RelativeDocumentMoniker": "Data\\House.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Esoft\\Data\\House.cs",
+              "RelativeToolTip": "Data\\House.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T11:32:36.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ListViewApartmentPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Esoft\\Pages\\ListViewApartmentPage.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\ListViewApartmentPage.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Esoft\\Pages\\ListViewApartmentPage.xaml.cs",
+              "RelativeToolTip": "Pages\\ListViewApartmentPage.xaml.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAYwKIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T16:01:40.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Esoft\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Esoft\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAkwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T15:42:29.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Esoft\\Data\\Model1.edmx",
+              "RelativeDocumentMoniker": "Data\\Model1.edmx",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Esoft\\Data\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "Data\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-01-19T11:23:02.834Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ListViewHousePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Esoft\\Pages\\ListViewHousePage.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\ListViewHousePage.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Esoft\\Pages\\ListViewHousePage.xaml.cs",
+              "RelativeToolTip": "Pages\\ListViewHousePage.xaml.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAwwDEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T15:42:29.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Esoft\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Esoft\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-18T15:42:29.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ListViewHousePage.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Esoft\\Pages\\ListViewHousePage.xaml",
+              "RelativeDocumentMoniker": "Pages\\ListViewHousePage.xaml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Esoft\\Pages\\ListViewHousePage.xaml",
+              "RelativeToolTip": "Pages\\ListViewHousePage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-18T15:42:29.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ReportPage.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Esoft\\Pages\\ReportPage.xaml",
+              "RelativeDocumentMoniker": "Pages\\ReportPage.xaml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Esoft\\Pages\\ReportPage.xaml",
+              "RelativeToolTip": "Pages\\ReportPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-18T16:08:30.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddApartmentPage.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Esoft\\Pages\\AddApartmentPage.xaml",
+              "RelativeDocumentMoniker": "Pages\\AddApartmentPage.xaml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Esoft\\Pages\\AddApartmentPage.xaml",
+              "RelativeToolTip": "Pages\\AddApartmentPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-19T10:33:43.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EditApartmentPage.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Esoft\\Pages\\EditApartmentPage.xaml",
+              "RelativeDocumentMoniker": "Pages\\EditApartmentPage.xaml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Esoft\\Pages\\EditApartmentPage.xaml",
+              "RelativeToolTip": "Pages\\EditApartmentPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-18T16:03:18.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AddApartmentPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Esoft\\Pages\\AddApartmentPage.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\AddApartmentPage.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Esoft\\Pages\\AddApartmentPage.xaml.cs",
+              "RelativeToolTip": "Pages\\AddApartmentPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T10:34:13.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Model1.Context.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Esoft\\Data\\Model1.Context.cs",
+              "RelativeDocumentMoniker": "Data\\Model1.Context.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Esoft\\Data\\Model1.Context.cs",
+              "RelativeToolTip": "Data\\Model1.Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T11:23:31.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ReportPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Esoft\\Pages\\ReportPage.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\ReportPage.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Esoft\\Pages\\ReportPage.xaml.cs",
+              "RelativeToolTip": "Pages\\ReportPage.xaml.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAlwDwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T16:08:53.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EditApartmentPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Esoft\\Pages\\EditApartmentPage.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\EditApartmentPage.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Esoft\\Pages\\EditApartmentPage.xaml.cs",
+              "RelativeToolTip": "Pages\\EditApartmentPage.xaml.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAYwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T16:06:16.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Esoft\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Esoft\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-18T15:42:29.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Esoft\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Esoft\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-01-18T15:42:40.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ResidentialComplex.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Esoft\\Data\\ResidentialComplex.cs",
+              "RelativeDocumentMoniker": "Data\\ResidentialComplex.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Esoft\\Data\\ResidentialComplex.cs",
+              "RelativeToolTip": "Data\\ResidentialComplex.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T11:33:07.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Model1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Esoft\\Data\\Model1.cs",
+              "RelativeDocumentMoniker": "Data\\Model1.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Esoft\\Data\\Model1.cs",
+              "RelativeToolTip": "Data\\Model1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T11:33:05.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Apartment.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Esoft\\Data\\Apartment.cs",
+              "RelativeDocumentMoniker": "Data\\Apartment.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Esoft\\Data\\Apartment.cs",
+              "RelativeToolTip": "Data\\Apartment.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAYwBkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T11:23:40.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Esoft\\Classes\\Manager.cs",
+              "RelativeDocumentMoniker": "Classes\\Manager.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Esoft\\Classes\\Manager.cs",
+              "RelativeToolTip": "Classes\\Manager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T15:42:29.233Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
